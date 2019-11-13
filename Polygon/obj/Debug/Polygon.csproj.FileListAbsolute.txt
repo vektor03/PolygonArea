@@ -1,0 +1,7 @@
+D:\VICTOR\WORK\Interview\STM\Polygon\bin\Debug\Polygon.exe
+D:\VICTOR\WORK\Interview\STM\Polygon\bin\Debug\Polygon.pdb
+D:\VICTOR\WORK\Interview\STM\Polygon\obj\Debug\Polygon.Form1.resources
+D:\VICTOR\WORK\Interview\STM\Polygon\obj\Debug\Polygon.Properties.Resources.resources
+D:\VICTOR\WORK\Interview\STM\Polygon\obj\Debug\Polygon.csproj.GenerateResource.cache
+D:\VICTOR\WORK\Interview\STM\Polygon\obj\Debug\Polygon.exe
+D:\VICTOR\WORK\Interview\STM\Polygon\obj\Debug\Polygon.pdb
